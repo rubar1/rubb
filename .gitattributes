@@ -1,2 +1,3 @@
 notmerge.txt merge=ours
 exm.xml merge=ours
+test/test12 merge=ours
